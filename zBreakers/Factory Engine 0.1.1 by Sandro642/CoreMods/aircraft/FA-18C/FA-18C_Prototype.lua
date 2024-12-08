@@ -265,13 +265,13 @@ local centerline 	= {
 local launch_bar_connected_arg_value_	= 0.815
 
 local F_18C =  {
-	Name 				=   'FA-18C_hornet',
+	Name 				=   'FA-18C_Prototype',
 
 	shape_table_data 	=
 	{
 		{
 			file  		= "fa-18c";
-			username	= "FA-18C_hornet";
+			username	= "FA-18C_Prototype";
 			index		= WSTYPE_PLACEHOLDER;
 			life		= 20; -- прочность объекта (методом lifebar*) -- The strength of the object (ie. lifebar *)
 			vis			= 3; -- множитель видимости (для маленьких объектов лучше ставить поменьше). Visibility factor (For a small objects is better to put lower nr).
@@ -288,7 +288,7 @@ local F_18C =  {
 	},
 
 	Picture				= "FA-18A.png",
-	DisplayName			=	_("F/A-18C Lot 20"),
+	DisplayName			=	_("F/A-18C Prototype Factory"),
 	mapclasskey			=	"P0091000024",
 	WorldID				=   WSTYPE_PLACEHOLDER,
 	attribute 			= 	{wsType_Air, wsType_Airplane, wsType_Fighter, WSTYPE_PLACEHOLDER, "Multirole fighters", "Refuelable", "Datalink", "Link16", "Link4", "ACLS"},
