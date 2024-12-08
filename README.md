@@ -1,6 +1,7 @@
 # Factory-Engine-F-A---18C
 Mach 2.5 with AfterBurner
 
+Ajout d'une livrée "Factory Prototype" plus tard.
 
 
 Voici les modifications du code : 
