@@ -1091,8 +1091,6 @@ local F_18C =  {
 
 	dataCartridge = true,
 
-    --------------------------------- Factory Engine Test ---------------------------------
-
 	SFM_Data = {
         aerodynamics = {
             Cy0 = 0,
@@ -1153,8 +1151,6 @@ local F_18C =  {
             },
         },
     }
-
-    --------------------------------- End Of Factory Engine Test ---------------------------------
 
 	lights_data =
 	{
